@@ -20,8 +20,12 @@ public static void main (String [] args){
 
 	System.out.println("Hello from cherry pick branch");
 	System.out.println("Making some changes for cherry picking!");
+	System.out.println("Making another changes for charry picking");
+	System.out.println("Making another 2 changes for charry picking");
+
 	System.out.println("another changes");
 	System.out.println("Another changes 2");
+
 
 
 }
