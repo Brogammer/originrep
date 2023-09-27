@@ -25,7 +25,9 @@ public static void main (String [] args){
 
 	System.out.println("another changes");
 	System.out.println("Another changes 2");
-
+	for (int i = 0; i < 10; i++){
+		System.out.println("Changes in master branch");
+	}
 
 
 }
